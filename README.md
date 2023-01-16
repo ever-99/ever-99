@@ -2,8 +2,6 @@
 ### Data Analyst |  Business Intelligence
 [![ LinkedIn ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ever-oliveira/)
 
-![ Everton GitHub stats ](https://github-readme-stats.vercel.app/api?username=ever-99&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true)
-
 ##  Tecnologias que utilizo no meu dia a dia
 <div style="display: inline_block">
   <img align="center" alt="PowerBi" src="https://img.shields.io/badge/Microsoft-Power%20bi-yellow" width="100" height="30" />
